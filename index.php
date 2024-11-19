@@ -1,4 +1,7 @@
-<?php
+
+<!DOCTYPE html>
+<html lang="en">
+  <?php
 $cookie_name1 = "num";
 $cookie_value1 = "";
 $cookie_name2 = "op";
@@ -65,8 +68,6 @@ $num = $_result;
 ?>
 
 
-<!DOCTYPE html>
-<html lang="en">
 <head>
 <title>Document</title>
 <style>
